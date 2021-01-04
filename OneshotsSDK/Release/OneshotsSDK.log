@@ -1,0 +1,47 @@
+﻿  CBaseEntity.cpp
+  CheatGlobalVars.cpp
+  CInput.cpp
+  ClassIdManager.cpp
+  CMath.cpp
+  ConfigVars.cpp
+  CreateMove.cpp
+  CVMT.cpp
+  DirectxHooks.cpp
+  dllmain.cpp
+H:\C++\#karupoiss00\Oneshots-SDK-master\OneshotsSDK\dllmain.cpp(9,1): warning C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(243): message :  see declaration of 'freopen'
+H:\C++\#karupoiss00\Oneshots-SDK-master\OneshotsSDK\dllmain.cpp(10,1): warning C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(243): message :  see declaration of 'freopen'
+H:\C++\#karupoiss00\Oneshots-SDK-master\OneshotsSDK\dllmain.cpp(11,1): warning C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Hooks.cpp
+  IEngineTrace.cpp
+  IInputSystem.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  Interfaces.cpp
+  Compiling...
+  IVPanel.cpp
+  Misc.cpp
+  NetvarManager.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(243): message :  see declaration of 'freopen'
+H:\C++\#karupoiss00\Oneshots-SDK-master\OneshotsSDK\NetvarManager.cpp(1447,25): warning C4018:  '<': signed/unsigned mismatch
+H:\C++\#karupoiss00\Oneshots-SDK-master\OneshotsSDK\NetvarManager.cpp(1494,25): warning C4018:  '<': signed/unsigned mismatch
+H:\C++\#karupoiss00\Oneshots-SDK-master\OneshotsSDK\NetvarManager.cpp(1522,23): warning C4018:  '<': signed/unsigned mismatch
+  Paintraverse.cpp
+H:\C++\#karupoiss00\Oneshots-SDK-master\OneshotsSDK\NetvarManager.cpp(1560,23): warning C4018:  '<': signed/unsigned mismatch
+H:\C++\#karupoiss00\Oneshots-SDK-master\OneshotsSDK\Paintraverse.cpp(33,16): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+H:\C++\#karupoiss00\Oneshots-SDK-master\OneshotsSDK\Paintraverse.cpp(34,16): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+H:\C++\#karupoiss00\Oneshots-SDK-master\OneshotsSDK\Paintraverse.cpp(41,105): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+H:\C++\#karupoiss00\Oneshots-SDK-master\OneshotsSDK\Paintraverse.cpp(41,83): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+H:\C++\#karupoiss00\Oneshots-SDK-master\OneshotsSDK\Paintraverse.cpp(41,70): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+  Utility.cpp
+H:\C++\#karupoiss00\Oneshots-SDK-master\OneshotsSDK\Paintraverse.cpp(41,51): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1577 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OneshotsSDK.vcxproj -> H:\C++\#karupoiss00\Oneshots-SDK-master\Release\OneshotsSDK.dll
